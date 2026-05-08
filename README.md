@@ -1,7 +1,8 @@
-Recruitment Analytics & Operations
+**Recruitment Analytics & Operations**
+
 Transforming raw talent data into actionable business intelligence.
 
-Operational Efficiency: Engineered Dynamic Aging Reports using NETWORKDAYS logic to track time-to-hire and identify bottleneck hiring managers in real-time.
+Operational Efficiency: Engineered Dynamic Aging Reports using **NETWORKDAYS** logic to track time-to-hire and identify bottleneck hiring managers in real-time.
 
 Predictive Scoring: Developed Weighted Candidate Scorecards with Radar (Spider) Chart visualization to objectively map competencies and reduce interview bias.
 
