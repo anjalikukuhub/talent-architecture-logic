@@ -10,6 +10,9 @@ Strategic Sourcing Mix: Built interactive Sourcing Funnel Dashboards (Pivot Tabl
 
 Budget Architecture: Utilized Waterfall Variance Analysis to track recruitment spend against quarterly budgets, ensuring fiscal accountability in talent acquisition.
 
+![Candidate Competency Radar](Radar%20Chart.PNG)
+![Budget Variance Waterfall](Waterfall%20Chart.PNG)
+
 
 # Senior Talent Architect | Technical Sourcing Logic
 
