@@ -1,3 +1,15 @@
+Recruitment Analytics & Operations
+Transforming raw talent data into actionable business intelligence.
+
+Operational Efficiency: Engineered Dynamic Aging Reports using NETWORKDAYS logic to track time-to-hire and identify bottleneck hiring managers in real-time.
+
+Predictive Scoring: Developed Weighted Candidate Scorecards with Radar (Spider) Chart visualization to objectively map competencies and reduce interview bias.
+
+Strategic Sourcing Mix: Built interactive Sourcing Funnel Dashboards (Pivot Tables & Slicers) to optimize channel spend based on candidate quality vs. quantity.
+
+Budget Architecture: Utilized Waterfall Variance Analysis to track recruitment spend against quarterly budgets, ensuring fiscal accountability in talent acquisition.
+
+
 # Senior Talent Architect | Technical Sourcing Logic
 
 ## 🛠 Tech Stack
